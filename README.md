@@ -3,9 +3,9 @@ This project performs network analysis on economic datasets to understand the st
 # Project Objective
 The primary objective is to analyze the economic network using different centralities and community detection algorithms. 
 We aim to:
-  Identify influential nodes and their roles in the network.
-  Detect community structures within the network.
-  Gain insights into the economic interactions and interdependencies across regions or entities.
+- Identify influential nodes and their roles in the network.
+- Detect community structures within the network.
+- Gain insights into the economic interactions and interdependencies across regions or entities.
 # Dataset
 We analyzed four economic network datasets, each representing different economic entities or interactions:
 - econ-wm1.txt
@@ -26,6 +26,6 @@ Calculating measures like betweenness, degree, closeness, and eigenvector centra
 Using algorithms such as Louvain, Girvan-Newman, and Kernighan-Lin to identify community structures within the networks.
 # Results
 Our findings highlighted several key aspects:
-  Certain nodes are highly influential across the network, acting as major hubs or key economic entities.
-  Community detection revealed modular structures within the network, suggesting interconnected groups of entities with higher interaction rates among themselves.
-  Among the datasets, econ-wm3 exhibited the strongest community structure with the highest modularity value.
+- Certain nodes are highly influential across the network, acting as major hubs or key economic entities.
+- Community detection revealed modular structures within the network, suggesting interconnected groups of entities with higher interaction rates among themselves.
+- Among the datasets, econ-wm3 exhibited the strongest community structure with the highest modularity value.
