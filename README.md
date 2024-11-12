@@ -8,10 +8,10 @@ We aim to:
   Gain insights into the economic interactions and interdependencies across regions or entities.
 # Dataset
 We analyzed four economic network datasets, each representing different economic entities or interactions:
-  econ-wm1.txt
-  econ-wm3.txt
-  econ-beause.txt
-  econ-becxc.txt
+- econ-wm1.txt
+- econ-wm3.txt
+- econ-beause.txt
+- econ-becxc.txt
 Each dataset contains nodes representing countries or regions and edges representing economic interactions.
 ### source
 Network Repository
