@@ -13,15 +13,15 @@ We analyzed four economic network datasets, each representing different economic
   econ-beause.txt
   econ-becxc.txt
 Each dataset contains nodes representing countries or regions and edges representing economic interactions.
-## source
+### source
 Network Repository
-## Link
+### Link
 www.networkrepository.com
 # Methodology
 Our approach involved:
-## Centrality Measures
+### Centrality Measures
 Calculating measures like betweenness, degree, closeness, and eigenvector centrality to identify influential nodes.
-## Community Detection Algorithms
+### Community Detection Algorithms
 Using algorithms such as Louvain, Girvan-Newman, and Kernighan-Lin to identify community structures within the networks.
 # Results
 Our findings highlighted several key aspects:
